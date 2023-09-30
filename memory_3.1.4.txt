@@ -1,0 +1,67 @@
+Total allocated: 80 bytes (2 objects)
+Total retained:  0 bytes (0 objects)
+
+allocated memory by gem
+-----------------------------------
+        80  other
+
+allocated memory by file
+-----------------------------------
+        80  memory_test.rb
+
+allocated memory by location
+-----------------------------------
+        80  memory_test.rb:11
+
+allocated memory by class
+-----------------------------------
+        80  Array
+
+allocated objects by gem
+-----------------------------------
+         2  other
+
+allocated objects by file
+-----------------------------------
+         2  memory_test.rb
+
+allocated objects by location
+-----------------------------------
+         2  memory_test.rb:11
+
+allocated objects by class
+-----------------------------------
+         2  Array
+
+retained memory by gem
+-----------------------------------
+NO DATA
+
+retained memory by file
+-----------------------------------
+NO DATA
+
+retained memory by location
+-----------------------------------
+NO DATA
+
+retained memory by class
+-----------------------------------
+NO DATA
+
+retained objects by gem
+-----------------------------------
+NO DATA
+
+retained objects by file
+-----------------------------------
+NO DATA
+
+retained objects by location
+-----------------------------------
+NO DATA
+
+retained objects by class
+-----------------------------------
+NO DATA
+
